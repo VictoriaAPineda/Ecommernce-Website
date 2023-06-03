@@ -503,10 +503,6 @@ footer .copyright{
         padding: 40px 40px;
     
     }
-    .section-m1{ /* added */
-        margin: 0;
-    }
-
     #navbar {
         display: flex;
         flex-direction: column;
@@ -592,9 +588,6 @@ footer .copyright{
 @media (max-width: 477px) {
     .section-p1 {
         padding: 20px;
-    }
-    .section-m1{ /* added */
-        margin: 0;
     }
     #header {
         padding: 10px 30px;
