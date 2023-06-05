@@ -537,7 +537,7 @@ footer .copyright{
     
     }
     #close{
-        display: initial; /* show the x (in its orignal state which in this case, was disaplayed)*/
+        display: initial; /* show the x (in its orignal state which in this case, the menu was closed)*/
         position: absolute;
         top:30px;
         left:30px;
