@@ -537,7 +537,7 @@ footer .copyright{
     
     }
     #close{
-        display: initial; /* show the x */
+        display: initial; /* show the x (in its orignal state which in this case, was disaplayed)*/
         position: absolute;
         top:30px;
         left:30px;
