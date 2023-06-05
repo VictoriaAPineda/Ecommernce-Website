@@ -531,6 +531,20 @@ footer .copyright{
     font-size: 16px;
     font-weight: 600;
 }
+/* single-view of a product*/
+
+#prodetails .single-pro-image{
+    width: 40%;
+    margin-right: 50px;
+}
+.small-img-group{
+    display: flex;
+    justify-content: space-between;
+}
+.small-img-col{
+    flex-basis: 24%; /* only works with flex items */
+    cursor: pointer;
+}
 
 /* Media Query */
 @media (max-width:799px) {
