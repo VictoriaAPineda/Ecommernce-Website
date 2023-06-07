@@ -9,7 +9,7 @@ const close = document.getElementById("close");
 /* acts when user clicks on the bar icon */
 if(bar){
     bar.addEventListener('click', () => {
-        nav.classList.add("active"); /* in css */
+        nav.classList.add("active"); /* adds the active class properties */
     })
 }
 
